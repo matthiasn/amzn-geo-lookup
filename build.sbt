@@ -1,4 +1,4 @@
-name := "amzn-geo-defragmenter"
+name := "amzn-geo-lookup"
 
 version := "1.0-SNAPSHOT"
 

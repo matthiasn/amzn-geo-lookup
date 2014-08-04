@@ -6,6 +6,7 @@ import play.api.libs.ws.WS
 import play.api.libs.concurrent.Execution.Implicits.defaultContext
 
 import model._
+import play.api.libs.json.JsValue
 
 object Application extends Controller {
 
@@ -21,7 +22,7 @@ object Application extends Controller {
    *   - freegeoip not running -> fallback URL
    *   - freegeoip not responding within 100ms -> fallback URL (critical, script loading blocks page load)
    *   - freegeoip responds with code other than 200 -> fallback URL
-   *
+   * The fallback URL is the U.S store link for existing shortened links and a specified general default URL otherwise.
    **/
   def redirect(shortUrl: String, format: String) = Action.async {
     req =>
