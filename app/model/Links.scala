@@ -38,6 +38,16 @@ object Links {
     "template.banner.IT" -> "",
     "template.banner.ES" -> "",
 
+    // Uncle Bob - The Clean Coder
+    "unclebob-cleancoder.link.US" -> "http://www.amazon.com/gp/product/0137081073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0137081073&linkCode=as2&tag=matthiasnehls-20",
+    "unclebob-cleancoder.link.DE" -> "http://www.amazon.de/gp/product/0137081073/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0137081073&linkCode=as2&tag=matnehblo-21",
+    "unclebob-cleancoder.link.AT" -> "http://www.amazon.de/gp/product/0137081073/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0137081073&linkCode=as2&tag=matnehblo-21",
+    "unclebob-cleancoder.link.GB" -> "http://www.amazon.co.uk/gp/product/0137081073/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0137081073&linkCode=as2&tag=matnehblo0e-21",
+    "unclebob-cleancoder.link.FR" -> "http://www.amazon.fr/gp/product/0137081073/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=0137081073&linkCode=as2&tag=matthiasneh03-21",
+    "unclebob-cleancoder.link.CA" -> "http://www.amazon.ca/gp/product/0137081073/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=0137081073&linkCode=as2&tag=matthiasneh0d-20",
+    "unclebob-cleancoder.link.IT" -> "http://www.amazon.it/gp/product/0137081073/ref=as_li_ss_tl?ie=UTF8&camp=3370&creative=24114&creativeASIN=0137081073&linkCode=as2&tag=matthiasneh01-21",
+    "unclebob-cleancoder.link.ES" -> "http://www.amazon.es/gp/product/0137081073/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0137081073&linkCode=as2&tag=matthiasne0ac-21",
+
     // Sony A7 - iFrame
     "sony-a7.iframe.US" -> "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00FRDUZXM&asins=B00FRDUZXM&linkId=W3JU6YUGAP2PCAQI&show_border=false&link_opens_in_new_window=true",
     "sony-a7.iframe.DE" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matnehblo-21&o=3&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FWUDE9W",
