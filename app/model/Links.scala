@@ -38,6 +38,26 @@ object Links {
     "template.banner.IT" -> "",
     "template.banner.ES" -> "",
 
+  // Behringer Xenyx X1222USB mixer
+    "x1222usb.iframe.US" -> "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B0036ECH1M&asins=B0036ECH1M&linkId=WF33S3LYMSPP4V3W&show_border=true&link_opens_in_new_window=true",
+    "x1222usb.iframe.DE" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B0036ECH1M&asins=B0036ECH1M&linkId=&show_border=true&link_opens_in_new_window=true",
+    "x1222usb.iframe.AT" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B0036ECH1M&asins=B0036ECH1M&linkId=&show_border=true&link_opens_in_new_window=true",
+    "x1222usb.iframe.GB" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasneh0c-21&marketplace=amazon&region=GB&placement=B0036ECH1M&asins=B0036ECH1M&linkId=&show_border=true&link_opens_in_new_window=true",
+    "x1222usb.iframe.FR" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasneh03-21&marketplace=amazon&region=FR&placement=B0036ECH1M&asins=B0036ECH1M&linkId=&show_border=true&link_opens_in_new_window=true",
+    "x1222usb.iframe.CA" -> "http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0d-20&o=15&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0036ECH1M",
+    "x1222usb.iframe.IT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh01-21&o=29&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0086ENWRK",
+    "x1222usb.iframe.ES" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasne0ac-21&o=30&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0036ECH1M",
+
+  // Joy of Clojure, 2nd edition
+    "joyclojure.link.US" -> "http://www.amazon.com/gp/product/1617291412/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1617291412&linkCode=as2&tag=matthiasnehls-20&linkId=P22ECFYI5IHT72YI",
+    "joyclojure.link.DE" -> "http://www.amazon.de/gp/product/1617291412/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1617291412&linkCode=as2&tag=matnehblo-21",
+    "joyclojure.link.AT" -> "http://www.amazon.de/gp/product/1617291412/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1617291412&linkCode=as2&tag=matnehblo-21",
+    "joyclojure.link.GB" -> "http://www.amazon.co.uk/gp/product/1617291412/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1617291412&linkCode=as2&tag=matthiasneh0c-21",
+    "joyclojure.link.FR" -> "http://www.amazon.fr/gp/product/1617291412/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=1617291412&linkCode=as2&tag=matthiasneh03-21",
+    "joyclojure.link.CA" -> "http://www.amazon.ca/gp/product/1617291412/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=1617291412&linkCode=as2&tag=matthiasneh0d-20",
+    "joyclojure.link.IT" -> "http://www.amazon.it/gp/product/1617291412/ref=as_li_ss_tl?ie=UTF8&camp=3370&creative=24114&creativeASIN=1617291412&linkCode=as2&tag=matthiasneh01-21",
+  "joyclojure.link.ES" -> "http://www.amazon.es/gp/product/1617291412/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=1617291412&linkCode=as2&tag=matthiasne0ac-21",
+
     // Uncle Bob - The Clean Coder
     "unclebob-cleancoder.link.US" -> "http://www.amazon.com/gp/product/0137081073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0137081073&linkCode=as2&tag=matthiasnehls-20",
     "unclebob-cleancoder.link.DE" -> "http://www.amazon.de/gp/product/0137081073/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0137081073&linkCode=as2&tag=matnehblo-21",
@@ -48,8 +68,18 @@ object Links {
     "unclebob-cleancoder.link.IT" -> "http://www.amazon.it/gp/product/0137081073/ref=as_li_ss_tl?ie=UTF8&camp=3370&creative=24114&creativeASIN=0137081073&linkCode=as2&tag=matthiasneh01-21",
     "unclebob-cleancoder.link.ES" -> "http://www.amazon.es/gp/product/0137081073/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0137081073&linkCode=as2&tag=matthiasne0ac-21",
 
+    // Clean Coder - Uncle Bob - iframe
+    "cleancoder.iframe.US" -> "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=0137081073&asins=0137081073&linkId=5K64D4OV3WRRIOVM&show_border=true&link_opens_in_new_window=true",
+    "cleancoder.iframe.DE" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=0137081073&asins=0137081073&linkId=&show_border=true&link_opens_in_new_window=true",
+    "cleancoder.iframe.AT" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=0137081073&asins=0137081073&linkId=&show_border=true&link_opens_in_new_window=true",
+    "cleancoder.iframe.GB" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasneh0c-21&marketplace=amazon&region=GB&placement=0137081073&asins=0137081073&linkId=&show_border=true&link_opens_in_new_window=true",
+    "cleancoder.iframe.FR" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo08-21&marketplace=amazon&region=FR&placement=0137081073&asins=0137081073&linkId=&show_border=true&link_opens_in_new_window=true",
+    "cleancoder.iframe.CA" -> "http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0d-20&o=15&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0137081073",
+    "cleancoder.iframe.IT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh01-21&o=29&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0137081073",
+    "cleancoder.iframe.ES" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasne0ac-21&o=30&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0137081073",
+
     // Sony A7 - iFrame
-    "sony-a7.iframe.US" -> "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00FRDUZXM&asins=B00FRDUZXM&linkId=W3JU6YUGAP2PCAQI&show_border=false&link_opens_in_new_window=true",
+    "sony-a7.iframe.US" -> "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00FRDUZXM&asins=B00FRDUZXM&linkId=W3JU6YUGAP2PCAQI&show_border=false&link_opens_in_new_window=true",
     "sony-a7.iframe.DE" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matnehblo-21&o=3&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FWUDE9W",
     "sony-a7.iframe.AT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matnehblo-21&o=3&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FWUDE9W",
     "sony-a7.iframe.GB" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0c-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FWUDE9W",
@@ -59,7 +89,7 @@ object Links {
     "sony-a7.iframe.ES" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasne0ac-21&o=30&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FWUDE9W",
 
     // Zeiss 24-70mm 4.0 - iFrame
-    "zeiss-24-70.iframe.US" -> "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00FSB79FU&asins=B00FSB79FU&linkId=IDVUN4G4M63KJ6OY&show_border=false&link_opens_in_new_window=true",
+    "zeiss-24-70.iframe.US" -> "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00FSB79FU&asins=B00FSB79FU&linkId=IDVUN4G4M63KJ6OY&show_border=false&link_opens_in_new_window=true",
     "zeiss-24-70.iframe.DE" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matnehblo-21&o=3&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FYRLSIC",
     "zeiss-24-70.iframe.AT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matnehblo-21&o=3&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FYRLSIC",
     "zeiss-24-70.iframe.GB" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0c-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FYRLSIC",
@@ -78,7 +108,7 @@ object Links {
     "sony-a7r.link.ES" -> "http://www.amazon.es/gp/product/B00G34CVWW/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00G34CVWW&linkCode=as2&tag=matthiasne0ac-21",
 
     // Mastering AngularJS - 178216183X - iframe
-    "mastering-angular.iframe.US" -> "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00EQ67J30&asins=B00EQ67J30&linkId=QGX6R3SXAZVZRK3R&show_border=false&link_opens_in_new_window=tru",
+    "mastering-angular.iframe.US" -> "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00EQ67J30&asins=B00EQ67J30&linkId=QGX6R3SXAZVZRK3R&show_border=false&link_opens_in_new_window=tru",
     "mastering-angular.iframe.DE" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matnehblo-21&o=3&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00EQ67J30",
     "mastering-angular.iframe.AT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matnehblo-21&o=3&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00EQ67J30",
     "mastering-angular.iframe.GB" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0c-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00EQ67J30",
@@ -88,7 +118,7 @@ object Links {
     "mastering-angular.iframe.ES" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasne0ac-21&o=30&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00EQ67J30",
 
     // AngularJS Directives - 1783280344 - iframe
-    "angular-directives.iframe.US" -> "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00EXNI5Z2&asins=B00EXNI5Z2&linkId=RT5HE24DXVERHKC4&show_border=true&link_opens_in_new_window=true",
+    "angular-directives.iframe.US" -> "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00EXNI5Z2&asins=B00EXNI5Z2&linkId=RT5HE24DXVERHKC4&show_border=true&link_opens_in_new_window=true",
     "angular-directives.iframe.DE" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matnehblo-21&o=3&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00EXNI5Z2",
     "angular-directives.iframe.AT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matnehblo-21&o=3&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00EXNI5Z2",
     "angular-directives.iframe.GB" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0c-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00EXNI5Z2",
