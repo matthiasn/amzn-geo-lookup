@@ -48,7 +48,17 @@ object Links {
     "x1222usb.iframe.IT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh01-21&o=29&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0086ENWRK",
     "x1222usb.iframe.ES" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasne0ac-21&o=30&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0036ECH1M",
 
-  // Joy of Clojure, 2nd edition
+    // Adam A7X - iframe
+    "adam-a7x.iframe.US" -> "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B003SYYU9C&asins=B003SYYU9C&linkId=PZOBOXJ2L3MAKPAM&show_border=true&link_opens_in_new_window=true",
+    "adam-a7x.iframe.DE" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B003SYYU9C&asins=B003SYYU9C&linkId=&show_border=true&link_opens_in_new_window=true",
+    "adam-a7x.iframe.AT" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B003SYYU9C&asins=B003SYYU9C&linkId=&show_border=true&link_opens_in_new_window=true",
+    "adam-a7x.iframe.GB" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasneh0c-21&marketplace=amazon&region=GB&placement=B003SYYU9C&asins=B003SYYU9C&linkId=&show_border=true&link_opens_in_new_window=true",
+    "adam-a7x.iframe.FR" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasneh03-21&marketplace=amazon&region=FR&placement=B003SYYU9C&asins=B003SYYU9C&linkId=&show_border=true&link_opens_in_new_window=true",
+    "adam-a7x.iframe.CA" -> "http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0d-20&o=15&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B003SYYU9C",
+    "adam-a7x.iframe.IT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh01-21&o=29&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B003FT7542",
+    "adam-a7x.iframe.ES" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasne0ac-21&o=30&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B003SYYU9C",
+
+    // Joy of Clojure, 2nd edition
     "joyclojure.link.US" -> "http://www.amazon.com/gp/product/1617291412/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1617291412&linkCode=as2&tag=matthiasnehls-20&linkId=P22ECFYI5IHT72YI",
     "joyclojure.link.DE" -> "http://www.amazon.de/gp/product/1617291412/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1617291412&linkCode=as2&tag=matnehblo-21",
     "joyclojure.link.AT" -> "http://www.amazon.de/gp/product/1617291412/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1617291412&linkCode=as2&tag=matnehblo-21",
