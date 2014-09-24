@@ -28,17 +28,39 @@ object Links {
     "amazon-landing.link.ES" -> "https://www.amazon.es/?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&tag=matthiasne0ac-21",
     "amazon-landing.img.ES" -> "https://ir-es.amazon-adsystem.com/e/ir?t=matthiasne0ac-21&l=ur2&o=30",
 
-    // Template - banner
-    "template.banner.US" -> "",
-    "template.banner.DE" -> "",
-    "template.banner.AT" -> "",
-    "template.banner.GB" -> "",
-    "template.banner.FR" -> "",
-    "template.banner.CA" -> "",
-    "template.banner.IT" -> "",
-    "template.banner.ES" -> "",
 
-  // Behringer Xenyx X1222USB mixer
+    // jetdrive - iframe
+    "jetdrive.iframe.US" -> "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00K73NT1C&asins=B00K73NT1C&linkId=AVVOMJU4VCBLZHAP&show_border=true&link_opens_in_new_window=true",
+    "jetdrive.iframe.DE" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B00K73NT1C&asins=B00K73NT1C&linkId=Z3NAQC65MJBO7Q57&show_border=true&link_opens_in_new_window=true",
+    "jetdrive.iframe.AT" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B00K73NT1C&asins=B00K73NT1C&linkId=Z3NAQC65MJBO7Q57&show_border=true&link_opens_in_new_window=true",
+    "jetdrive.iframe.GB" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo0e-21&marketplace=amazon&region=GB&placement=B00K73NT1C&asins=B00K73NT1C&linkId=J3QNVNV3ZA5WAMEG&show_border=true&link_opens_in_new_window=true",
+    "jetdrive.iframe.FR" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo08-21&marketplace=amazon&region=FR&placement=B00K73NT1C&asins=B00K73NT1C&linkId=WB42CH3B7KOWHPIN&show_border=true&link_opens_in_new_window=true",
+    "jetdrive.iframe.CA" -> "http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0d-20&o=15&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00K73NT1C",
+    "jetdrive.iframe.IT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh01-21&o=29&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00I59UMWO",
+    "jetdrive.iframe.ES" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasne0ac-21&o=30&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00K73NT1C",
+
+    // nifty drive - iframe
+    "nifty.iframe.US" -> "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00INY61OE&asins=B00INY61OE&linkId=CQ2UE5LQA56NEXXU&show_border=true&link_opens_in_new_window=true",
+    "nifty.iframe.DE" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B00FEDYU6S&asins=B00FEDYU6S&linkId=MFER45X2LH6KLDZA&show_border=true&link_opens_in_new_window=true",
+    "nifty.iframe.AT" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B00FEDYU6S&asins=B00FEDYU6S&linkId=MFER45X2LH6KLDZA&show_border=true&link_opens_in_new_window=true",
+    "nifty.iframe.GB" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo0e-21&marketplace=amazon&region=GB&placement=B00GYY1L0E&asins=B00GYY1L0E&linkId=6L4G2VRZM4FR73T4&show_border=true&link_opens_in_new_window=true",
+    "nifty.iframe.FR" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo08-21&marketplace=amazon&region=FR&placement=B00GYY1L0E&asins=B00GYY1L0E&linkId=XGVX46BGATJFT2VM&show_border=true&link_opens_in_new_window=true",
+    "nifty.iframe.CA" -> "http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0d-20&o=15&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00I59UMWO",
+    "nifty.iframe.IT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh01-21&o=29&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00K73NT1C",
+    "nifty.iframe.ES" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasne0ac-21&o=30&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00FEDYU6S",
+
+    // microsd - iframe
+    "microsd.iframe.US" -> "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B00IIJ6W4S&asins=B00IIJ6W4S&linkId=DMJK5ONMX5DNASCF&show_border=true&link_opens_in_new_window=true",
+    "microsd.iframe.DE" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B00IIJ6W4S&asins=B00IIJ6W4S&linkId=NWLY4HY6IDARB3IU&show_border=true&link_opens_in_new_window=true",
+    "microsd.iframe.AT" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B00IIJ6W4S&asins=B00IIJ6W4S&linkId=NWLY4HY6IDARB3IU&show_border=true&link_opens_in_new_window=true",
+    "microsd.iframe.GB" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo0e-21&marketplace=amazon&region=GB&placement=B00IIJ6W4S&asins=B00IIJ6W4S&linkId=YGLMHO6BCHEB2LWG&show_border=true&link_opens_in_new_window=true",
+    "microsd.iframe.FR" -> "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo08-21&marketplace=amazon&region=FR&placement=B00M562LF4&asins=B00M562LF4&linkId=5AMGH37WRXZF3GWD&show_border=true&link_opens_in_new_window=true",
+    "microsd.iframe.CA" -> "http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh0d-20&o=15&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00IIJ6W4S",
+    "microsd.iframe.IT" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasneh01-21&o=29&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00IIJ6W4S",
+    "microsd.iframe.ES" -> "http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=matthiasne0ac-21&o=30&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00LMBYFHU",
+
+
+    // Behringer Xenyx X1222USB mixer
     "x1222usb.iframe.US" -> "http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matthiasnehls-20&marketplace=amazon&region=US&placement=B0036ECH1M&asins=B0036ECH1M&linkId=WF33S3LYMSPP4V3W&show_border=true&link_opens_in_new_window=true",
     "x1222usb.iframe.DE" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B0036ECH1M&asins=B0036ECH1M&linkId=&show_border=true&link_opens_in_new_window=true",
     "x1222usb.iframe.AT" -> "http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=ss_til&ad_type=product_link&tracking_id=matnehblo-21&marketplace=amazon&region=DE&placement=B0036ECH1M&asins=B0036ECH1M&linkId=&show_border=true&link_opens_in_new_window=true",
